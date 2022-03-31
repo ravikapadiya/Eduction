@@ -6,7 +6,7 @@ import { Image, Linking, StyleSheet, Text, TouchableOpacity, View } from 'react-
 const About = () => {
   return (
     <View style={styles.aboutContainer}>
-      <Text style={styles.mainHeader}> chirag ka</Text>
+      <Text style={styles.mainHeader}> ravi kapadiya</Text>
       <Text style={styles.paraStyle}> I Am full stack developer</Text>
       <View style={styles.mainimage}>
         <TouchableOpacity>
